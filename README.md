@@ -37,3 +37,5 @@
 |无人机累加器优化|*可选*|AccumulatorMemory|15592|24|8|13|254|
 |信号延时的实现|*可选*|DelayFromScratch|19251|6|1|2|37||
 |无人机时钟发生器|*可选*|DelayFromScratchRedux|18347|10|3|5|64|
+|马达频率校准器|*可选*|LoopingBuffer|16781|22|5|9|172|
+|农场大门|*可选*|EORAndEOC|14854|30|10|15|198|

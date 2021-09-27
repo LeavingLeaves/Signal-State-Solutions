@@ -1,12 +1,17 @@
 # Signal-State-Solutions
 
-游戏网址：https://store.steampowered.com/app/1577620/_The_Signal_State/
+游戏网址(game link)：https://store.steampowered.com/app/1577620/_The_Signal_State/
 
 收录目前能达到的最好分数
+The best solutions I can reach at now
 
 注意：有部分关卡需要在通关后才能解锁全元件
+Warning: There are some levels in which you need to finish the game to unlock all modules
 
 以下除标注星号关卡外均为目前最优解
+All level without * is the best solution at now
+
+(English version below)
 
 |关卡名|分类|文件夹名|分数|机架空间|模块树|线缆数|线缆长度|
 |---|---|---|---|---|---|---|---|
@@ -55,3 +60,51 @@
 |进阶逻辑|⠱⠎|FurtherLogic|17481|10|5|9|122|
 |排序|⠫⠢|Sorting|8071|74|21|32|677|
 |求和计算器|⠺⠲|SummingCalculator|15937|26|7|11|219|
+
+|Level|Type|File Name|Score|Space|Module|Cable|Total Cable|
+|---|---|---|---|---|---|---|---|
+|Diagnostics Test|Main|DiagnosticsTest|19373|2|1|3|26|
+|Power Generator|Main|AmplitudeBoost|18820|2|4|5|65|
+|Circuit Breaker|main|InitialTransmission|18327|10|3|5|74|
+|Farmhouse Lights|main|SimpleMath|18315|8|3|6|80|
+|VCA Test|main|VCA|19149|6|1|3|38|
+|Barn Lights|main|AmplitudeBoost2|17003|16|5|10|161|
+|Firmware Programmer|main|Gating|19149|6|1|3|38|
+|Power Regulator|main|Gating2|18624|8|2|5|63|
+|Logic Test|main|LogicIntro|16986|12|6|11|132|
+|Min Max Test|main|MinMaxIntro|16393|14|7|13|191|
+|Irrigation System|main|VCALogic|16175|24|7|11|150|
+|Irrigation Distribution Circuit|main|VCADuet|17412|16|4|8|144|
+|Irrigation Controller|main|LogicAndMath|17495|12|5|8|115|
+|Radio Broadcast System|main|VoltageSpikeFilter|18036|10|4|6|82|
+|Radio Amplification Circuit|*optional*|VoltageDistributor|17523|14|5|7|101|
+|Min And Max Redesign|*optional*|MinAndMax|17878|8|4|8|111|
+|Radio Clocking System|main|Clocks|17850|16|4|5|75|
+|Radio Memory Buffer|main|BasicMemory|18640|12|2|3|55|
+|Tractor Security System|main|MemoryAndMath|17095|22|5|7|115|
+|Tractor Music Player|*optional*|FourOnTheFloor|17824|12|4|7|88|
+|Tractor Gear System|*optional*|AlternatingHihats|15961|34|7|8|157|
+|Drone Pathfinder|main|SignalDelay|17161|18|5|8|132|
+|Drone Processor|main|TimeToCount|18357|12|3|4|59|
+|Radar System|main|DecayEnvelope|16169|24|7|11|153|
+|Drone Accumulator Optimization|*optional*|AccumulatorMemory|15628|24|8|13|236|
+|Signal Delay Implementation|*optional*|DelayFromScratch|19251|6|1|2|37||
+|Drone Clock Generator|*optional*|DelayFromScratchRedux|18347|10|3|5|64|
+|Motor Frequency Regulator|*optional*|LoopingBuffer|16781|22|5|9|172|
+|Farm Gate|*optional*|EORAndEOC|14854|30|10|15|198|
+|Sequential Switch|main|SequentialSwitch|18412|12|2|5|69|
+|Reversed Sequential Switch|main|SequentialSwitch2|19249|2|1|4|38|
+|Signal Repeater|main|Concatenation|17165|18|5|8|130|
+|Optimized Signal Repeater|*optional*|Concatenation2|19249|2|1|4|38|
+|Crops Sorter|main|CropsSorter|16388|24|6|10|181|
+|Electric Fence|main|SequenceDistributor|**15081***|28|9|15|**222***|
+|Electric Fence Optimization|*optional*|DivisionSorter|14711|9|28|18|257|
+|Sampler|main|SamplerIntro|18171|14|3|5|52|
+|Auto Targeting System|main|RandomAccessMemory|16933|18|5|10|146|
+|Reloading Mechanism|main|SamplerReverse|16336|26|6|10|157|
+|Target Identification System|*optional*|SamplerOddEven|8887|68|19|32|594|
+|Auto Targeting Spotlight|main|StackMemory|15743|28|7|12|216|
+|Addressable Memory|⠔⠎|AddressableMemory|989|98|31|52|1743|
+|Further Logic|⠱⠎|FurtherLogic|17481|10|5|9|122|
+|Sorting|⠫⠢|Sorting|8071|74|21|32|677|
+|Summing Calculator|⠺⠲|SummingCalculator|15937|26|7|11|219|

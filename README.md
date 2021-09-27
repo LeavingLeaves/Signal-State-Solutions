@@ -3,12 +3,15 @@
 游戏网址(game link)：https://store.steampowered.com/app/1577620/_The_Signal_State/
 
 收录目前能达到的最好分数
+
 The best solutions I can reach at now
 
 注意：有部分关卡需要在通关后才能解锁全元件
+
 Warning: There are some levels in which you need to finish the game to unlock all modules
 
 以下除标注星号关卡外均为目前最优解
+
 All level without * is the best solution at now
 
 (English version below)

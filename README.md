@@ -66,8 +66,8 @@ All level without * is the best solution at now
 
 |Level|Type|File Name|Score|Space|Module|Cable|Total Cable|
 |---|---|---|---|---|---|---|---|
-|Diagnostics Test|Main|DiagnosticsTest|19373|2|1|3|26|
-|Power Generator|Main|AmplitudeBoost|18820|2|4|5|65|
+|Diagnostics Test|main|DiagnosticsTest|19373|2|1|3|26|
+|Power Generator|main|AmplitudeBoost|18820|2|4|5|65|
 |Circuit Breaker|main|InitialTransmission|18327|10|3|5|74|
 |Farmhouse Lights|main|SimpleMath|18315|8|3|6|80|
 |VCA Test|main|VCA|19149|6|1|3|38|
